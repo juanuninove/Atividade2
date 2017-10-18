@@ -29,6 +29,7 @@ public class MaiorNumero {
         System.out.println("Digite o valor de y: ");
         int y = ler.nextInt();
         
+        
         // Testa a condição e imprimi verdadeiro ou falso
         if (x>y){
             System.out.println("O maior eh: "+x);
